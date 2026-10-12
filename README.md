@@ -221,6 +221,10 @@ It glows, and then it gets raided. But buildings never downgrade, planets never 
 
 You can lie. That is legal, and it is half the game. The things you cannot do, the server simply refuses: recalling a fleet, dodging inside a tick, peeking at someone's coordinates, or turning an id into a star.
 
+**Will my data be sold?**
+
+No. The [privacy policy](https://www.tacenda.space/en/privacy) says it plainly: we do not sell player data, and we do not sell, rent or exchange account, communication or game data with third parties. No advertising profiles, no cross-site tracking either. Anything you want to keep, the map, battle reports, your inbox, delivery records, you can read out through the game's own API at any time and store on your side; those notes and game records are yours to manage.
+
 **Does it end?**
 
 aetherion does not. No seasons, no victory screen, no final tick. Want a different pace? That is what a new universe is for.
